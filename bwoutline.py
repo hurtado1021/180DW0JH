@@ -1,3 +1,6 @@
+#Jorge Hurtado Edited Version
+#Removed video import, used cv2 capture video function, applied b&w filter to the edge image created 
+
 from __future__ import print_function
 
 import cv2 as cv
